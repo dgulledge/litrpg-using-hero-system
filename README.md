@@ -1,5 +1,4 @@
-# litrpg-using-hero-system
-LitRPG using the Hero System
+# LitRPG using the Hero System
 
 This project is licensed under the Creative Commons Attribution NonCommercial ShareAlike 4.0 International License
 https://creativecommons.org/licenses/by-nc-sa/4.0/
