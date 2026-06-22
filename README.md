@@ -23,6 +23,62 @@ degree to which these are explicitly part of the story varies, but they are at
 least implicit in the way the story plays out, and may go as far as complete
 dumps of stat blocks.
 
+## What is the Hero System ™®
+
+The Hero System ™® is DOJ, Inc.’s trademark for its roleplaying system.
+
+The Hero System began with the superhero tabletop roleplaying game (TTRPG) Champions.
+The game was expanded into various other genres with the introduction of Espionage,
+Fantasy Hero, Star Hero, Pulp Hero and a number of other games. They all share the
+same core mechanics. The rules have certain core features that make it particularly
+suitable for LitRPG-based campaigns.
+
+This project will not be presenting the Hero System rules. The specific wording of
+those are protected as part of DOJ, Inc,'s trademarks and copyrights. However, we'll
+definitely be telling you which of their publications contain which material. Yes,
+you can certainly buy it all. However, if you want to play a game in a specific
+genre, they publish books such as Fantasy Hero Complete which contains all of the
+Hero System game mechanics and all the necessary explanation to use it for fantasy
+games.
+
+This guide is a labor of love by people who enjoy both LitRPG books and the Hero
+System games. We're aiming to protect the intellectual property of the publisher
+while providing a guide for using it for the settings we enjoy.
+
+### Point buy character creation
+
+Players buy the stats, skills and powers of their characters with points. The rules
+are intended to balance the power level so that the same number of points spent on
+different things should have roughly equal power. For LitRPG, this makes assessing
+the relative power of a character and a "mob" (an opponent) easier. You compare the
+total points used for each, and also the points used for their most powerful
+ability/power/spell.
+
+### Advantages and Limitations
+
+All powers can be bought with Advantages and/or Limitations. These either increase
+or decrease what the power can do in some way. They also change the points to buy it.
+
+### Separation of game mechanics from special effects
+
+Whether your attack is a fire ball from a wand or the blast from a plasma rifle, you
+model the game effects separately from the special effects, or how it's described
+narratively. The major nuance to this is that it's possible for the special effects
+of a power to interact with the limitations of that power or a defense. If some creature
+has a defense that's only effective against fire attacks, then obviously it protects
+against a fire ball, but not a lightning bolt, even if they otherwise use the same
+base power. This can be particularly fun when making the interactions between various
+powers in the LitRPG.
+
+## A Note on naming things
+
+When I talk about game mechanics and need to specify which, I'll indicate whether I'm
+talking about the Hero System mechanics or the LitRPG mechanics. The LitRPG mechanics
+are how the LitRPG game world is described to the players as their characters would
+perceive it. The Hero System mechanics are the points to buy powers, the actual rolls
+of the dice, etc. There are occasions when talking about how to model LitRPG mechanics
+using Hero System mechanics when this clarification is necessary.
+
 ## Subgenres of LitRPG
 
 LitRPG isn't neccessarily tied to any specific RPG, although popular RPGs have
